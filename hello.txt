@@ -31,4 +31,3 @@ commit 2 on branch
 branch commit 3
 
 main commit 4original
-branch commit 4
